@@ -1,5 +1,5 @@
 # go-exporter-demo
-
+## 一、环境设置
 ### 开启模块，配置国内代理
 #### 修改profile环境变量
 ```
@@ -18,3 +18,5 @@ go evn 看到GO111MODULE=“on” 即为成功。
 3)下载依赖 go mod download 下载module .
 4)导入依赖 go mod vendor 依赖导下项目.
 ```
+
+## 二、使用说明
